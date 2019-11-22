@@ -19,7 +19,7 @@ import java.io.*;
 interface IWorker {
  public void eat();
 } 
-
+//test
 interface RWorker {
   public void work();
 }
